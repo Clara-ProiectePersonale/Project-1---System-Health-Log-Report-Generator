@@ -1,2 +1,2 @@
 #Starting this project will pe awasame 
-print ("Hello, VS code")
+print ("Hello, VS code ...")
